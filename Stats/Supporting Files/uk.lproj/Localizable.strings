@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Ділитись анонімною телеметрією";
 "Choose file" = "Виберіть файл";
 "Stress tests" = "Стрес-тести";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Серійний номер";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Кластерне групування";
 "Efficiency cores color" = "Колір енергоефективних ядер";
 "Performance cores color" = "Колір високопродуктивних ядер";
+"Super cores color" = "Super cores color";
 "Total load" = "Загальне використання";
 "System load" = "Використання системи";
 "User load" = "Використання користувача";
 "Efficiency cores load" = "Використання енергоефективних ядер";
 "Performance cores load" = "Використання високопродуктивних ядер";
+"Super cores load" = "Super cores load";
 "All cores" = "Всі ядра";
 "Load per core" = "Навантаження на ядро"; // translategemma:4b
 "Efficiency core" = "Енергоефективне ядро";
@@ -315,6 +325,7 @@
 "Utilization" = "Використання";
 "Render utilization" = "Використання render";
 "Tiler utilization" = "Використання tiler";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Поріг використання графічного процесора";
 "GPU usage is" = "Використання графічного процесора %0";
 

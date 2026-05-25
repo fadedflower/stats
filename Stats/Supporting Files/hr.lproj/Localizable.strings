@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Podijelite anonimne podatke o telemetriji"; // translategemma:4b
 "Choose file" = "Odaberite datoteku"; // translategemma:4b
 "Stress tests" = "Testiranje pod opterećenjem"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Serijski broj";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Grupiranje"; // translategemma:4b
 "Efficiency cores color" = "Cores za učinkovitost, boje"; // translategemma:4b
 "Performance cores color" = "Boja jezgara za performanse"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Ukupna optereženost"; // translategemma:4b
 "System load" = "Nivo opterećenja sustava"; // translategemma:4b
 "User load" = "Nivo korisničke upotrebe"; // translategemma:4b
 "Efficiency cores load" = "Procesori za učinkovitost se iniciraju"; // translategemma:4b
 "Performance cores load" = "Optimizirani jezgre se aktiviraju"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Sve jezgre"; // translategemma:4b
 "Load per core" = "Optimizirano po jezgru"; // translategemma:4b
 "Efficiency core" = "Osnovni princip učinkovitosti"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Korištenje";
 "Render utilization" = "Korištenje iscrtavača";
 "Tiler utilization" = "Korištenje popločivanja";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Prag korištenja grafičkog procesora";
 "GPU usage is" = "Korištenje grafičkog procesora je %0";
 

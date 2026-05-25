@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "अनाम टेलीमेट्री साझा करें";
 "Choose file" = "फ़ाइल चुनें"; // translategemma:4b
 "Stress tests" = "तनाव परीक्षण"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "सीरियल नंबर";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "क्लस्टर समूहीकरण";
 "Efficiency cores color" = "दक्षता कोर रंग";
 "Performance cores color" = "प्रदर्शन कोर रंग";
+"Super cores color" = "Super cores color";
 "Total load" = "कुल भार"; // translategemma:4b
 "System load" = "सिस्टम का भार"; // translategemma:4b
 "User load" = "उपयोगकर्ता भार"; // translategemma:4b
 "Efficiency cores load" = "कार्यक्षमता कोर लोड"; // translategemma:4b
 "Performance cores load" = "परफॉर्मेंस कोर लोड"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "सभी कोर"; // translategemma:4b
 "Load per core" = "प्रति कोर लोडिंग"; // translategemma:4b
 "Efficiency core" = "कार्यकुशलता का मूल"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "उपयोग";
 "Render utilization" = "उपयोग प्रस्तुत करें";
 "Tiler utilization" = "टाइलर उपयोग";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "जीपीयू उपयोग सीमा";
 "GPU usage is" = "जीपीयू उपयोग %0 है";
 

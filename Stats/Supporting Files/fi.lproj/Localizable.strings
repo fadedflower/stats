@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Jaa anonyymi telemetria";
 "Choose file" = "Valitse tiedosto"; // translategemma:4b
 "Stress tests" = "Stressitestit"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Sarjanumero";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Ryhmien klusterointi";
 "Efficiency cores color" = "E-ytimien väri";
 "Performance cores color" = "P-ytimien väri";
+"Super cores color" = "Super cores color";
 "Total load" = "Kokonaiskuorma";
 "System load" = "Järjestelmäkuorma";
 "User load" = "Käyttäjäkuorma";
 "Efficiency cores load" = "Tehokkuusytimien kuorma";
 "Performance cores load" = "Suorituskykyytimien kuorma";
+"Super cores load" = "Super cores load";
 "All cores" = "Kaikki ytimet"; // translategemma:4b
 "Load per core" = "Peruskuormitus per ydin"; // translategemma:4b
 "Efficiency core" = "Tehokkuuden perusta"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Käyttöaste";
 "Render utilization" = "Renderöinnin käyttöaste";
 "Tiler utilization" = "Tilerin käyttöaste";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU:n käytön raja";
 "GPU usage is" = "GPU:n käyttö on %0";
 

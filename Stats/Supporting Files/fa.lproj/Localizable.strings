@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "اشتراک‌گذاری داده‌های ناشناس"; // translategemma:4b
 "Choose file" = "فایل مورد نظر را انتخاب کنید"; // translategemma:4b
 "Stress tests" = "آزمایش‌های تحمل استرس"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "سریال نامبر";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "گروه‌بندی کلاستر";
 "Efficiency cores color" = "رنگ هسته‌های بهینه‌سازی"; // translategemma:4b
 "Performance cores color" = "رنگ هسته‌های عملکرد"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "مجموع بار"; // translategemma:4b
 "System load" = "بار سیستم"; // translategemma:4b
 "User load" = "بار کاربر"; // translategemma:4b
 "Efficiency cores load" = "بارگیری هسته‌های کارآمد"; // translategemma:4b
 "Performance cores load" = "بارگذاری هسته‌های عملکرد"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "تمام هسته‌ها"; // translategemma:4b
 "Load per core" = "بارگذاری بر اساس هسته"; // translategemma:4b
 "Efficiency core" = "مفهوم اصلی: کارایی"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "استفاده";
 "Render utilization" = "استفاده از رندر";
 "Tiler utilization" = "استفاده از تایلر";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "آستانه مصرف جی پی یو";
 "GPU usage is" = "مصرف جی پی یو %0";
 

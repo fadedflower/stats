@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Делится анонимной телеметрией";
 "Choose file" = "Выбрать файл";
 "Stress tests" = "Стресс-тесты";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Серийный номер";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Кластерная группировка";
 "Efficiency cores color" = "Цвет энергоэффективных ядер";
 "Performance cores color" = "Цвет производительных ядер";
+"Super cores color" = "Super cores color";
 "Total load" = "Общая нагрузка";
 "System load" = "Системная нагрузка";
 "User load" = "Пользовательская нагрузка";
 "Efficiency cores load" = "Нагрузка энергоэффективных ядер";
 "Performance cores load" = "Нагрузка производительных ядер";
+"Super cores load" = "Super cores load";
 "All cores" = "Все ядра";
 "Load per core" = "Нагрузка на ядро";
 "Efficiency core" = "Ядро эффективности";
@@ -315,6 +325,7 @@
 "Utilization" = "Использование";
 "Render utilization" = "Использование render";
 "Tiler utilization" = "Использование tiler";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Порог использования графического процессора";
 "GPU usage is" = "Использование графического процессора %0";
 

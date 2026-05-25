@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "שיתוף נתונים אנונימיים"; // translategemma:4b
 "Choose file" = "בחר קובץ"; // translategemma:4b
 "Stress tests" = "בדיקות עומס"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "מספר סריאלי";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "קיבוץ"; // translategemma:4b
 "Efficiency cores color" = "ליבות יעילות בצבע"; // translategemma:4b
 "Performance cores color" = "צבע ליבות הביצועים"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "סה\"כ עומס"; // translategemma:4b
 "System load" = "עומס מערכת"; // translategemma:4b
 "User load" = "עומס משתמש"; // translategemma:4b
 "Efficiency cores load" = "טעינת ליבות ביצוע"; // translategemma:4b
 "Performance cores load" = "ליבות הביצוע מתחילות לעבוד"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "כל הליבות"; // translategemma:4b
 "Load per core" = "טעינה לפי ליבה"; // translategemma:4b
 "Efficiency core" = "ליבת יעילות"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "ניצול";
 "Render utilization" = "ניצול רנדור";
 "Tiler utilization" = "ניצול ריצוף";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "סף השימוש בכרטיס הגרפי"; // translategemma:4b
 "GPU usage is" = "שימוש בכרטיס גרפי: %0"; // translategemma:4b
 

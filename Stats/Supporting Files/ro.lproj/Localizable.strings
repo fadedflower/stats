@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Partajarea datelor anonime de telemetrie"; // translategemma:4b
 "Choose file" = "Alege fișier"; // translategemma:4b
 "Stress tests" = "Teste de stres"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Număr de serie";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Gruparea în clustere"; // translategemma:4b
 "Efficiency cores color" = "Cores cu eficiență, culori"; // translategemma:4b
 "Performance cores color" = "Culorile nucleelor de performanță"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Suma totală"; // translategemma:4b
 "System load" = "Căderea sistemului"; // translategemma:4b
 "User load" = "Căderea sistemului"; // translategemma:4b
 "Efficiency cores load" = "Procese eficiente sunt încărcate"; // translategemma:4b
 "Performance cores load" = "Procesele de bază încep să funcționeze"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Toate nucleele"; // translategemma:4b
 "Load per core" = "Utilizare pe nucleu"; // translategemma:4b
 "Efficiency core" = "Nucleul eficienței"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Gradul de utilizare";
 "Render utilization" = "Utilizarea resurselor"; // translategemma:4b
 "Tiler utilization" = "Utilizarea tiler-ului"; // translategemma:4b
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Limita de utilizare a GPU"; // translategemma:4b
 "GPU usage is" = "Utilizarea GPU este `%0"; // translategemma:4b
 

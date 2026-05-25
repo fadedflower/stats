@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Zdieľte anonymné údaje z telemetrie"; // translategemma:4b
 "Choose file" = "Vyberte súbor"; // translategemma:4b
 "Stress tests" = "Testy na zaťaženie"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Sériové číslo";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Zoskupenie klastrov";
 "Efficiency cores color" = "Efektívne jadrá – farba"; // translategemma:4b
 "Performance cores color" = "Farba výkonových jadier"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Celková záťaž"; // translategemma:4b
 "System load" = "Zaťaženie systému"; // translategemma:4b
 "User load" = "Zátěž pre používateľa"; // translategemma:4b
 "Efficiency cores load" = "Jadra pre efektívnu prevádzku sa načítavajú"; // translategemma:4b
 "Performance cores load" = "Načítanie výkonových jadier"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Všetky jadier"; // translategemma:4b
 "Load per core" = "Na jeden výkonný jadrá"; // translategemma:4b
 "Efficiency core" = "Kľúčové zameranie na efektívnosť"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Využitie";
 "Render utilization" = "Využitie renderovania";
 "Tiler utilization" = "Využitie tilingu";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Prahová hodnota využitia GPU";
 "GPU usage is" = "Využitie GPU je %0";
 

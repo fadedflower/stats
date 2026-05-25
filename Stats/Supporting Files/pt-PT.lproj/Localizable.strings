@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Partilhar dados de telemetria anónimos"; // translategemma:4b
 "Choose file" = "Escolher ficheiro"; // translategemma:4b
 "Stress tests" = "Testes de stress"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Número de série";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Agrupamento de cluster";
 "Efficiency cores color" = "Núcleos de eficiência, cores"; // translategemma:4b
 "Performance cores color" = "Cores dos núcleos de desempenho"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Carga total"; // translategemma:4b
 "System load" = "Carga do sistema"; // translategemma:4b
 "User load" = "Carga de utilizadores"; // translategemma:4b
 "Efficiency cores load" = "Cores de eficiência carregadas"; // translategemma:4b
 "Performance cores load" = "Carga dos núcleos de desempenho"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Todas as cores"; // translategemma:4b
 "Load per core" = "Carga por núcleo"; // translategemma:4b
 "Efficiency core" = "Núcleo de eficiência"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Utilização";
 "Render utilization" = "Utilização da renderização"; // translategemma:4b
 "Tiler utilization" = "Utilização de azulejistas"; // translategemma:4b
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Limite de uso da GPU";
 "GPU usage is" = "Utilização da GPU é %0";
 

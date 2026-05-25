@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "分享匿名诊断数据";
 "Choose file" = "选择文件";
 "Stress tests" = "压力测试";
+"macOS widgets" = "macOS 小组件";
+"Authorization" = "授权";
+"Login" = "登录";
+"Identificator" = "标识符";
+"Plan" = "计划";
+"Monitoring" = "监控";
+"Control" = "控制";
+"Logout" = "登出";
 
 // Dashboard
 "Serial number" = "序列号";
@@ -258,7 +266,7 @@
 "Main chart scaling" = "主图表缩放";
 "Scale value" = "缩放值";
 "Text widget value" = "文本小组件值";
-"Combined processes" = "组合流程"; // translategemma:4b
+"Combined processes" = "合并进程";
 
 // CPU
 "CPU usage" = "CPU占用";
@@ -286,16 +294,18 @@
 "Cluster grouping" = "按集群分组";
 "Efficiency cores color" = "能效核心颜色";
 "Performance cores color" = "性能核心颜色";
+"Super cores color" = "超级核心颜色";
 "Total load" = "总占用";
 "System load" = "系统占用";
 "User load" = "用户占用";
 "Efficiency cores load" = "能效核心占用";
 "Performance cores load" = "性能核心占用";
+"Super cores load" = "超级核心占用";
 "All cores" = "所有核心";
-"Load per core" = "每核心负载"; // translategemma:4b
-"Efficiency core" = "核心效率"; // translategemma:4b
-"Performance core" = "性能核心"; // translategemma:4b
-"Super core" = "超核心"; // translategemma:4b
+"Load per core" = "单核负载";
+"Efficiency core" = "能效核心";
+"Performance core" = "性能核心";
+"Super core" = "超级核心";
 
 // GPU
 "GPU to show" = "显示的GPU";
@@ -315,6 +325,7 @@
 "Utilization" = "利用率";
 "Render utilization" = "渲染利用率";
 "Tiler utilization" = "Tiler利用率";
+"ANE utilization" = "ANE利用率";
 "GPU usage threshold" = "GPU占用阈值";
 "GPU usage is" = "GPU利用率是 %0";
 

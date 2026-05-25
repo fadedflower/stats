@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Udostępnij anonimową telemetrię";
 "Choose file" = "Wybrać plik";
 "Stress tests" = "Testy obciążeniowe";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Numer seryjny";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Grupowanie klastrów";
 "Efficiency cores color" = "Kolor rdzeni energooszczędnych";
 "Performance cores color" = "Kolor rdzeni wydajnościowych";
+"Super cores color" = "Super cores color";
 "Total load" = "Całkowite obciążenie";
 "System load" = "Obciążenie systemu";
 "User load" = "Obciążenie użytkownika";
 "Efficiency cores load" = "Obciążenie rdzeni energooszczędnych";
 "Performance cores load" = "Obciążenie rdzeni wydajnościowych";
+"Super cores load" = "Super cores load";
 "All cores" = "Wszystkie rdzenie";
 "Load per core" = "Obciążenie na rdzeń";
 "Efficiency core" = "Rdzeń energooszczędny";
@@ -315,6 +325,7 @@
 "Utilization" = "Wykorzystanie";
 "Render utilization" = "Wykorzystanie rendera";
 "Tiler utilization" = "Wykorzystanie tilera";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Próg wykorzystania GPU";
 "GPU usage is" = "Użycie GPU %0";
 

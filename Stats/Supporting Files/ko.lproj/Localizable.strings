@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "익명 사용정보 공유";
 "Choose file" = "파일 선택";
 "Stress tests" = "스트레스 테스트 진행하기";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "일련 번호";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "클러스터 묶기";
 "Efficiency cores color" = "효율 코어 색상";
 "Performance cores color" = "성능 코어 색상";
+"Super cores color" = "Super cores color";
 "Total load" = "총 부하";
 "System load" = "시스템 부하";
 "User load" = "사용자 부하";
 "Efficiency cores load" = "효율 코어 부하";
 "Performance cores load" = "성능 코어 부하";
+"Super cores load" = "Super cores load";
 "All cores" = "모든 코어";
 "Load per core" = "코어당 부하";
 "Efficiency core" = "효율 코어";
@@ -315,6 +325,7 @@
 "Utilization" = "사용률";
 "Render utilization" = "렌더 사용률";
 "Tiler utilization" = "타일 사용률";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU 사용량 임계값";
 "GPU usage is" = "GPU 사용량 %0";
 

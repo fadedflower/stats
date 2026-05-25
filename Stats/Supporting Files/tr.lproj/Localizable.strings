@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Anonim telemetri paylaş";
 "Choose file" = "Dosya seç";
 "Stress tests" = "Stres testleri";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Seri numarası";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Küme gruplaması";
 "Efficiency cores color" = "Verimlilik çekirdeklerinin rengi";
 "Performance cores color" = "Performans çekirdeklerinin rengi";
+"Super cores color" = "Super cores color";
 "Total load" = "Toplam yük";
 "System load" = "Sistem yükü";
 "User load" = "Kullanıcı yükü";
 "Efficiency cores load" = "Verimlilik çekirdekleri yükü";
 "Performance cores load" = "Performans çekirdekleri yükü";
+"Super cores load" = "Super cores load";
 "All cores" = "Tüm çekirdekler";
 "Load per core" = "Her çekirdeğe göre yüklenme"; // translategemma:4b
 "Efficiency core" = "Temel performans"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Kullanım";
 "Render utilization" = "İşleme kullanımı";
 "Tiler utilization" = "Tiler kullanımı";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU kullanım eşiği";
 "GPU usage is" = "GPU kullanımı %0";
 

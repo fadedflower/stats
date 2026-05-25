@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Deli anonimno telemetrijo";
 "Choose file" = "Izberite datoteko"; // translategemma:4b
 "Stress tests" = "Testiranje na napetost"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Serijska številka";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Združevanje v gruče";
 "Efficiency cores color" = "Barva učinkovitih jeder";
 "Performance cores color" = "Barva performančnih jeder";
+"Super cores color" = "Super cores color";
 "Total load" = "Skupna obremenitev";
 "System load" = "Sistemska obremenitev";
 "User load" = "Uporabniška obremenitev";
 "Efficiency cores load" = "Obremenitev učinkovitih jeder";
 "Performance cores load" = "Obremenitev performančnih jeder";
+"Super cores load" = "Super cores load";
 "All cores" = "Vsa jedra";
 "Load per core" = "Za vsako jedro"; // translategemma:4b
 "Efficiency core" = "Osrednja enostavnost"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Uporaba";
 "Render utilization" = "Izkoriščanje renderja";
 "Tiler utilization" = "Uporaba ploščic";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Prag uporabe GPE";
 "GPU usage is" = "Uporaba GPE je %0";
 

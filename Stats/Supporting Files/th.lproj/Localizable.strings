@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "แบ่งปันข้อมูล telemetry แบบไม่ระบุตัวตน"; // translategemma:4b
 "Choose file" = "เลือกไฟล์"; // translategemma:4b
 "Stress tests" = "การทดสอบความเครียด"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "หมายเลขซีเรียล";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "การจัดกลุ่ม Cluster";
 "Efficiency cores color" = "จำนวนคอร์ประสิทธิภาพ สี"; // translategemma:4b
 "Performance cores color" = "สีของคอร์ประสิทธิภาพ"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "ปริมาณการใช้งานทั้งหมด"; // translategemma:4b
 "System load" = "ภาระของระบบ"; // translategemma:4b
 "User load" = "ปริมาณการใช้งานของผู้ใช้"; // translategemma:4b
 "Efficiency cores load" = "การโหลดคอร์ประสิทธิภาพ"; // translategemma:4b
 "Performance cores load" = "การโหลดคอร์ประสิทธิภาพ"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "ทุกคอร์"; // translategemma:4b
 "Load per core" = "การโหลดต่อคอร์"; // translategemma:4b
 "Efficiency core" = "ประสิทธิภาพหลัก"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "ปริมาณการใช้งาน";
 "Render utilization" = "ปริมาณการใช้งาน Render";
 "Tiler utilization" = "ปริมาณการใช้งาน Tiler";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "เกณฑ์การใช้งาน GPU";
 "GPU usage is" = "ปริมาณการใช้งาน GPU คือ %0";
 

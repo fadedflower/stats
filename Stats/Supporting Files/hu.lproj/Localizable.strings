@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Telemetria megosztása névtelenül";
 "Choose file" = "Válasszon fájlt"; // translategemma:4b
 "Stress tests" = "Feszültségtesztek"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Sorozatszám";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Csoportosítás";
 "Efficiency cores color" = "Energiatakarékos magok színe";
 "Performance cores color" = "Teljesítmény magok színe";
+"Super cores color" = "Super cores color";
 "Total load" = "Teljes terheltség";
 "System load" = "Rendszer terheltség";
 "User load" = "Felhasználó terheltség";
 "Efficiency cores load" = "Energiatakarékos magok terheltsége";
 "Performance cores load" = "Teljesítmény magok terheltsége";
+"Super cores load" = "Super cores load";
 "All cores" = "Minden mag"; // translategemma:4b
 "Load per core" = "Egy magonként betöltött mennyiség"; // translategemma:4b
 "Efficiency core" = "Hatékony működés alapja"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Felhasználás";
 "Render utilization" = "Render használat";
 "Tiler utilization" = "Tiler használat";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU használati küszöb";
 "GPU usage is" = "%0 a GPU használat";
 

@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Anonyme Telemetrie teilen";
 "Choose file" = "Datei auswählen";
 "Stress tests" = "Stresstests";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Seriennummer";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Cluster-Gruppierung";
 "Efficiency cores color" = "Effizienzkerne-Farbe";
 "Performance cores color" = "Leistungskerne-Farbe";
+"Super cores color" = "Super cores color";
 "Total load" = "Gesamtlast";
 "System load" = "Systemlast";
 "User load" = "Benutzerlast";
 "Efficiency cores load" = "Effizienzkerne-Last";
 "Performance cores load" = "Leistungskerne-Last";
+"Super cores load" = "Super cores load";
 "All cores" = "Alle Kerne";
 "Load per core" = "Last pro Kern";
 "Efficiency core" = "Effizienzkern";
@@ -315,6 +325,7 @@
 "Utilization" = "Auslastung";
 "Render utilization" = "Render-Auslastung";
 "Tiler utilization" = "Tiler-Auslastung";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU-Auslastungsschwelle";
 "GPU usage is" = "GPU-Auslastung ist %0";
 

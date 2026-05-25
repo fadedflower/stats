@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Del anonyme telemetridata";
 "Choose file" = "Velg fil"; // translategemma:4b
 "Stress tests" = "Stress-tester"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Serienummer";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Klyngegruppering";
 "Efficiency cores color" = "Farge på effektivitetskjerner";
 "Performance cores color" = "Farge på ytelseskjerner";
+"Super cores color" = "Super cores color";
 "Total load" = "Total last"; // translategemma:4b
 "System load" = "Systembelastning"; // translategemma:4b
 "User load" = "Brukerbelastning"; // translategemma:4b
 "Efficiency cores load" = "Effektivitetskerner laster"; // translategemma:4b
 "Performance cores load" = "Ytelseskjerner lastes"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Alle kjerner"; // translategemma:4b
 "Load per core" = "Last per kjerne"; // translategemma:4b
 "Efficiency core" = "Kjerne for effektivitet"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Bruk";
 "Render utilization" = "Renderbruk";
 "Tiler utilization" = "Rutebruk";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU-bruksgrense";
 "GPU usage is" = "GPU-bruk er %0";
 

@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "匿名のテレメトリを共有する"; // translategemma:4b
 "Choose file" = "ファイルを選択する"; // translategemma:4b
 "Stress tests" = "ストレステスト"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "シリアル番号";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "クラスタリング"; // translategemma:4b
 "Efficiency cores color" = "高効率コアの色";
 "Performance cores color" = "高性能コアの色";
+"Super cores color" = "Super cores color";
 "Total load" = "合計負荷"; // translategemma:4b
 "System load" = "システム負荷"; // translategemma:4b
 "User load" = "ユーザー負荷"; // translategemma:4b
 "Efficiency cores load" = "高効率コアの負荷";
 "Performance cores load" = "高性能コアの負荷";
+"Super cores load" = "Super cores load";
 "All cores" = "すべてのコア"; // translategemma:4b
 "Load per core" = "コアごとの負荷"; // translategemma:4b
 "Efficiency core" = "高効率コア";
@@ -315,6 +325,7 @@
 "Utilization" = "使用率";
 "Render utilization" = "レンダリング";
 "Tiler utilization" = "タイルレンダリング";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU使用量の上限値"; // translategemma:4b
 "GPU usage is" = "GPUの使用率は%0です。"; // translategemma:4b
 

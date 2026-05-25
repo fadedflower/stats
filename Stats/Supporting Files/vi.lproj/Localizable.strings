@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Chia sẻ dữ liệu ẩn danh";
 "Choose file" = "Chọn tập tin";
 "Stress tests" = "Kiểm tra áp lực";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Số serial";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Nhóm cụm";
 "Efficiency cores color" = "Màu nhân tiết kiệm";
 "Performance cores color" = "Màu nhân hiệu năng";
+"Super cores color" = "Super cores color";
 "Total load" = "Tải tổng";
 "System load" = "Tải hệ thống";
 "User load" = "Tải người dùng";
 "Efficiency cores load" = "Tải nhân tiết kiệm";
 "Performance cores load" = "Tải nhân hiệu năng";
+"Super cores load" = "Super cores load";
 "All cores" = "Tất cả các nhân";
 "Load per core" = "Tải theo mỗi nhân xử lý"; // translategemma:4b
 "Efficiency core" = "Trọng tâm về hiệu quả"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Sử dụng";
 "Render utilization" = "Mức sử dụng kết xuất";
 "Tiler utilization" = "Mức sử dụng tiler";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Ngưỡng sử dụng GPU";
 "GPU usage is" = "Sử dụng GPU là %0";
 

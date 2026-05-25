@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Μοιραστείτε ανώνυμα δεδομένα τηλεμετρίας"; // translategemma:4b
 "Choose file" = "Επιλέξτε αρχείο"; // translategemma:4b
 "Stress tests" = "Έλεγχοι αντοχής"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Σειριακός αριθμός";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Ομαδοποίηση"; // translategemma:4b
 "Efficiency cores color" = "Χρώμα πυρήνων απόδοσης"; // translategemma:4b
 "Performance cores color" = "Χρώμα των πυρήνων απόδοσης"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Συνολική χωρητικότητα"; // translategemma:4b
 "System load" = "Φόρτος συστήματος"; // translategemma:4b
 "User load" = "Φόρτος χρηστών"; // translategemma:4b
 "Efficiency cores load" = "Ενα λειτουργικά κέντρα φορτώνουν"; // translategemma:4b
 "Performance cores load" = "Φόρτωση των βασικών πυρήνων"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Όλα τα πυρήνες"; // translategemma:4b
 "Load per core" = "Φόρτωση ανά πυρήνα"; // translategemma:4b
 "Efficiency core" = "Βασική λειτουργικότητα"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Χρήση";
 "Render utilization" = "Χρήση επεξεργαστικής ισχύος"; // translategemma:4b
 "Tiler utilization" = "Χρήση πλακιδίων"; // translategemma:4b
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Όριο χρήσης της GPU"; // translategemma:4b
 "GPU usage is" = "Η χρήση της κάρτας γραφικών είναι στο `%0"; // translategemma:4b
 

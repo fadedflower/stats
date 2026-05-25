@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Bagikan data telemetry tanpa mengungkapkan identitas"; // translategemma:4b
 "Choose file" = "Pilih file"; // translategemma:4b
 "Stress tests" = "Uji ketahanan"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Nomor serial";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Pengelompokan klaster"; // translategemma:4b
 "Efficiency cores color" = "Inti warna"; // translategemma:4b
 "Performance cores color" = "Warna inti kinerja"; // translategemma:4b
+"Super cores color" = "Super cores color";
 "Total load" = "Total beban"; // translategemma:4b
 "System load" = "Beban sistem"; // translategemma:4b
 "User load" = "Beban pengguna"; // translategemma:4b
 "Efficiency cores load" = "Prosesor inti mulai bekerja"; // translategemma:4b
 "Performance cores load" = "Prosesor inti memuat"; // translategemma:4b
+"Super cores load" = "Super cores load";
 "All cores" = "Semua inti"; // translategemma:4b
 "Load per core" = "Beban per inti"; // translategemma:4b
 "Efficiency core" = "Fokus utama pada efisiensi"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "Pemanfaatan";
 "Render utilization" = "Pemanfaatan render";
 "Tiler utilization" = "Pemanfaatan tiler";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "Batas penggunaan GPU"; // translategemma:4b
 "GPU usage is" = "Penggunaan GPU adalah %0"; // translategemma:4b
 

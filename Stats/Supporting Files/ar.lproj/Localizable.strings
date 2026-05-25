@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "مشاركة بيانات التشخيص المجهولة";
 "Choose file" = "اختر الملف"; // translategemma:4b
 "Stress tests" = "اختبارات تحمل الضغط"; // translategemma:4b
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "الرقم التسلسلي";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "تجميع المجموعات";
 "Efficiency cores color" = "لون نوى الكفاءة";
 "Performance cores color" = "لون نوى الأداء";
+"Super cores color" = "Super cores color";
 "Total load" = "إجمالي الحمل";
 "System load" = "حمل النظام";
 "User load" = "حمل المستخدم";
 "Efficiency cores load" = "حمل نوى الكفاءة";
 "Performance cores load" = "حمل نوى الأداء";
+"Super cores load" = "Super cores load";
 "All cores" = "جميع النواة"; // translategemma:4b
 "Load per core" = "التحميل لكل نواة"; // translategemma:4b
 "Efficiency core" = "التركيز على الكفاءة"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "استخدام";
 "Render utilization" = "استخدام الرندر";
 "Tiler utilization" = "استخدام اللوح";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "عتبة استخدام GPU";
 "GPU usage is" = "استخدام GPU %0";
 

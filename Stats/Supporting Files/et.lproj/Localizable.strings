@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "Jaga anonüümset telemeetriat";
 "Choose file" = "Vali fail";
 "Stress tests" = "Stressitestid";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "Seerianumber";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "Klastrite rühmitamine";
 "Efficiency cores color" = "Tõhusustuumade värv";
 "Performance cores color" = "Jõudlustuumade värv";
+"Super cores color" = "Super cores color";
 "Total load" = "Kokku koormus";
 "System load" = "Süsteemi koormus";
 "User load" = "Kasutajate koormus";
 "Efficiency cores load" = "Tõhusustuumade koormus";
 "Performance cores load" = "Jõudlustuumade koormus";
+"Super cores load" = "Super cores load";
 "All cores" = "Kõik tuumad";
 "Load per core" = "Koormus tuuma kohta";
 "Efficiency core" = "Tõhusustuum";
@@ -315,6 +325,7 @@
 "Utilization" = "Kasutus";
 "Render utilization" = "Renderdamise kasutus";
 "Tiler utilization" = "Osapõhise renderdaja kasutus";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU kasutuslävi";
 "GPU usage is" = "GPU kasutus on %0";
 

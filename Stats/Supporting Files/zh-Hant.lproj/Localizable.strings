@@ -168,6 +168,14 @@
 "Share anonymous telemetry" = "分享匿名診斷資料";
 "Choose file" = "選擇檔案";
 "Stress tests" = "壓力測試";
+"macOS widgets" = "macOS widgets";
+"Authorization" = "Authorization";
+"Login" = "Login";
+"Identificator" = "Identificator";
+"Plan" = "Plan";
+"Monitoring" = "Monitoring";
+"Control" = "Control";
+"Logout" = "Logout";
 
 // Dashboard
 "Serial number" = "序號";
@@ -286,11 +294,13 @@
 "Cluster grouping" = "依群集分組";
 "Efficiency cores color" = "節能核心色彩";
 "Performance cores color" = "效能核心色彩";
+"Super cores color" = "Super cores color";
 "Total load" = "總占用";
 "System load" = "系統占用";
 "User load" = "使用者占用";
 "Efficiency cores load" = "節能核心占用";
 "Performance cores load" = "效能核心占用";
+"Super cores load" = "Super cores load";
 "All cores" = "總核心占用";
 "Load per core" = "每個核心的載入量"; // translategemma:4b
 "Efficiency core" = "核心效率"; // translategemma:4b
@@ -315,6 +325,7 @@
 "Utilization" = "利用率";
 "Render utilization" = "渲染利用率";
 "Tiler utilization" = "圖塊利用率";
+"ANE utilization" = "ANE utilization";
 "GPU usage threshold" = "GPU使用量臨界值";
 "GPU usage is" = "GPU使用量：%0";
 
